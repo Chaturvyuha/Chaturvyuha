@@ -1,50 +1,22 @@
-# Hi, I'm Chaturvyuha Kankipati! 👋
+### Hi there 👋, my name is Kankipati Chaturvyuha
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/0QvnPB8X/my-card.jpg)
 
-### B.Tech 3rd Year | Front-End Developer
+Hi, I'm Chaturvyuha Kankipati, a B.Tech 3rd-year student with a passion for front-end development. I have experience in building responsive and user-friendly web applications using HTML, CSS, Bootstrap, and SQLite. I'm currently learning Python to broaden my skill set and dive into back-end development. I enjoy creating clean and functional designs, and I use Figma to mock up my ideas before bringing them to life. When I'm not coding, you'll find me playing badminton, listening to music, or planning my next travel adventure. I'm always eager to learn new technologies and collaborate on exciting projects!
 
-I’m a passionate front-end developer currently in my 3rd year of B.Tech. I enjoy creating clean, responsive web applications and learning new technologies to enhance my development skills.
+Skills:  HTML / CSS / BOOTSTRAP / SQLITE / PYTHON /
 
-
- 🚀 About Me
-
-- 🔭 I’m currently working on expanding my web development skills.
-- 🌱 I’m learning **Python** and exploring back-end development.
-- 💡 I’m always open to collaborating on interesting projects.
-- ⚡ Fun fact: I love playing badminton, listening to music, and traveling.
-
-
-
- 💻 Skills
-
-- **Front-End Development**: HTML, CSS, Bootstrap  
-- **Back-End**: SQLite  
-- **Tools**: Figma (for creating mockups)  
-- **Currently Learning**: Python
+- 🔭 I’m currently working on expanding my web development skills. 
+- 🌱 I’m currently learning Python and exploring back-end development 
+- 📫 How to reach me:
+-  LinkedIn:www.linkedin.com/in/chaturvyuha
+-  Email:chaturvyuha1@gmail.com 
+- ⚡ Fun fact: When I'm not busy coding or designing, I love playing badminton.It’s a great way to clear my mind and spark fresh ideas for my projects! 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chaturvyuha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Chaturvyuha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Chaturvyuha)  
 
- 📫 How to reach me:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaturvyuha&show_icons=true)  
 
-- [LinkedIn](www.linkedin.com/in/chaturvyuha)
-- Email:chaturvyuha1@gmail.com
-
-
-
- 🔧 My Projects
-
-Here are some of the projects I’ve worked on:
-
-1. **To-Do List Web App**  
-   A simple to-do list application with a clean user interface built using HTML, CSS, and JavaScript.  
-
-2. **Portfolio Website**  
-   A personal portfolio website showcasing my work, created with HTML, CSS, and Bootstrap.
-
-
-
- 🌱 My GitHub Stats
-
-![Chaturvyuha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaturvyuha)]
-
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Chaturvyuha)  
 
