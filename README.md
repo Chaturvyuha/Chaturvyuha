@@ -44,7 +44,7 @@ Here are some of the projects I’ve worked on:
 
  🌱 My GitHub Stats
 
-![Chaturvyuha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaturvyuha)](https://github.com/chaturvyuha/github-readme-stats)
+![Chaturvyuha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaturvyuha)]
 
 
 
