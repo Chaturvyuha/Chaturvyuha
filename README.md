@@ -7,10 +7,11 @@ Hi, I'm Chaturvyuha Kankipati, a B.Tech 3rd-year student with a passion for fron
 Skills:  HTML / CSS / BOOTSTRAP / SQLITE / PYTHON /
 
 - 🔭 I’m currently working on expanding my web development skills. 
-- 🌱 I’m currently learning Python and exploring back-end development 
+- 🌱 I’m currently learning Python and exploring back-end development
+- 💡 I’m always open to collaborating on interesting projects.
 - 📫 How to reach me:
--  LinkedIn:www.linkedin.com/in/chaturvyuha
--  Email:chaturvyuha1@gmail.com 
+- [LinkedIn](www.linkedin.com/in/chaturvyuha)
+- Email:chaturvyuha1@gmail.com
 - ⚡ Fun fact: When I'm not busy coding or designing, I love playing badminton.It’s a great way to clear my mind and spark fresh ideas for my projects! 
 
 
@@ -18,5 +19,5 @@ Skills:  HTML / CSS / BOOTSTRAP / SQLITE / PYTHON /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaturvyuha&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Chaturvyuha)  
+
 
